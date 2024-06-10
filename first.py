@@ -41,6 +41,8 @@ def myfun():
     print("I love ", glb);
 myfun()
 
+print("Github Connected");
+
 print(glb)
 
 def myfun2():
